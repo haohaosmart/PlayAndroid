@@ -15,3 +15,4 @@ rootProject.name = "playAndroid"
 include ':app'
 include ':common'
 include ':net'
+include ':sudoku'
